@@ -353,7 +353,6 @@ Known limitations, stated plainly:
 
 - Evaluate the pipeline on a labelled set of real and fabricated claims (English and Indic languages) and report results
 - MuRIL + ViT multimodal fusion model (the image encoder is in the codebase but not yet used)
-- Video and audio understanding
 - Account recovery and email verification
 - Better multilingual claim extraction and search-query generation
 - A moderation / appeal flow for disputed verdicts
