@@ -374,6 +374,6 @@ Sāthi's verdicts are automated and can be wrong. They are meant to help a reade
 
 The local vision-model integration follows the approach from the author's earlier project, NovaAI. MuRIL is by Google Research; models are served through Ollama, Groq and Google Gemini.
 
-## Author
+## Authors & Collaborators
 
-Yatharth Singh
+Yatharth Singh, Vinayak Sunil Rodd, Vishwajit Anand, Vaibhav Kumar
